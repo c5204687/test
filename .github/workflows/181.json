@@ -1,0 +1,47 @@
+[
+  {
+    “名称”：“jk”，
+    “网址”：“https://jkunzy.com”，
+    “解析网址”：“”
+  }，
+  {
+    "name" : "鲨鱼" ,
+    “网址”：“http://shayuzy5.com”，
+    “解析网址”：“”
+  }，
+  {
+    "name" : "奥斯卡" ,
+    “网址”：“https://aosikazy.com”，
+    “解析网址”：“”
+  }，
+  {
+    "name" : "乐播" ,
+    “网址”：“https://lbapi9.com”，
+    “解析网址”：“”
+  }，
+  {
+    "name" : "老鸭" ,
+    “网址”：“https://api.apilyzy.com”，
+    “解析网址”：“”
+  }，
+  {
+    "name" : "森林" ,
+    “网址”：“http://senlinzy2.com”，
+    “解析网址”：“”
+  }，
+  {
+    "name" : "阿里BB" ,
+    “网址”：“https://bbckzy1.cc”，
+    “解析网址”：“”
+  }，
+  {
+    "name" : "滴滴" ,
+    “网址”：“https://didizy.com”，
+    “解析网址”：“”
+  }，
+  {
+    "name" : "奶香" ,
+    “网址”：“https://naixxzy.com”，
+    "解析网址" : "" ,
+    “类别排除” :"精品国产|精品日韩|精品综合|精品小说|精品美图"
+  }
